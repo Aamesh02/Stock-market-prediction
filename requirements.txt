@@ -4,4 +4,5 @@ matplotlib
 pandas_datareader
 yfinance
 tensorflow
+scikit-learn
 streamlit
